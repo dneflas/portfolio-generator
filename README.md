@@ -12,7 +12,4 @@ Portfolio Generator is an application that generates a GitHub portfolio based on
 * NPM - Inquirer
 
 ## Installation
-To run this application, you will need to have Node.js installed on your machine.
-
-## Usage
-To look at this application, you will need to clone the repository to your local machine and run it from there.
+To run this application, you will need to have Node.js installed on your machine. Clone the repository to your local machine and run it from there the command line.
